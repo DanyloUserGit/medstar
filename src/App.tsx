@@ -12,7 +12,7 @@ function App() {
     <>
       <div className="wrapper">
         <Routes>
-          <Route path="/" element={<AuthReg />} />
+          <Route path="/*" element={<AuthReg />} />
           <Route path="/login" element={<AuthLogin />} />
           <Route path="/add-details" element={<AuthAddDetails />} />
           <Route path="/add-photo" element={<AuthUploadPhoto />} />
