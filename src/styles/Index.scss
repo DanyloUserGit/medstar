@@ -1,5 +1,7 @@
 @import './default.scss';
 @import './general/index.scss';
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 .wrapper{
     // display: flex;
@@ -9,4 +11,8 @@
     height: 80vh;
     margin: 0 auto;
     position: relative;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }

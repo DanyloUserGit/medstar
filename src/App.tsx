@@ -1,11 +1,10 @@
 import { Route, Routes } from "react-router-dom";
-import { AuthReg } from "./components/general/auth/AuthReg";
-import { AuthLogin } from "./components/general/auth/AuthLogin";
 import { AuthAddDetails } from "./components/general/auth/AuthAddDetails";
-import { AuthUploadPhoto } from "./components/general/auth/AuthUploadPhoto";
+import { AuthLogin } from "./components/general/auth/AuthLogin";
+import { AuthReg } from "./components/general/auth/AuthReg";
 import { AuthSubmit } from "./components/general/auth/AuthSubmit";
+import { AuthUploadPhoto } from "./components/general/auth/AuthUploadPhoto";
 import { Desk } from "./components/user/desk/Desk";
-import { PreviewModel } from "./components/general/auth/PreviewModel";
 
 function App() {
   return (
