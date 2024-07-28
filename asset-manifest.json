@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/medstar/static/css/main.f3e140bd.css",
-    "main.js": "/medstar/static/js/main.3503cc52.js",
+    "main.css": "/medstar/static/css/main.c08ad42f.css",
+    "main.js": "/medstar/static/js/main.c4e0ae4c.js",
     "index.html": "/medstar/index.html",
-    "main.f3e140bd.css.map": "/medstar/static/css/main.f3e140bd.css.map",
-    "main.3503cc52.js.map": "/medstar/static/js/main.3503cc52.js.map"
+    "main.c08ad42f.css.map": "/medstar/static/css/main.c08ad42f.css.map",
+    "main.c4e0ae4c.js.map": "/medstar/static/js/main.c4e0ae4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3e140bd.css",
-    "static/js/main.3503cc52.js"
+    "static/css/main.c08ad42f.css",
+    "static/js/main.c4e0ae4c.js"
   ]
 }
